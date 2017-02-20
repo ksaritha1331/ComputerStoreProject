@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Computer()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Computer\n
+comment1.params=
+comment1.target=void\ printComputerSummary()
+comment1.text=\n\ print\ a\ summary\ of\ the\ Computer\ components\ and\ calculate\ the\ total\ cost\n\ @param\ \ \ \ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+numComments=2

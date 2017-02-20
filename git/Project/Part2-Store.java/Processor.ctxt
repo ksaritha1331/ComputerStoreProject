@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Processor()
+comment0.text=\ public\ Processor(String\ brand,\ int\ processCore,\ String\ thermalPower,String\ graphicsController,String\ clockSpeed,String\ processorSocket,String\ cache,int\ cost)\n\ \ \ \ {\n\ \ \ \ \ \ \ \ //\ initialise\ instance\ variables\n\ \ \ \ \ \ \ \ setDetails(brand,processCore,thermalPower,graphicsController,clockSpeed,processorSocket,cache,cost);\n}
+comment1.params=
+comment1.target=void\ display()
+comment2.params=brand\ processCore\ clockSpeed\ processorSocket\ cache\ cost
+comment2.target=void\ setDetails(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getCost()
+comment3.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment4.params=
+comment4.target=java.lang.String\ getClockSpeed()
+comment5.params=
+comment5.target=int\ getprocessorCores()
+comment6.params=
+comment6.target=java.lang.String\ getprocessorSocket()
+comment7.params=
+comment7.target=java.lang.String\ getBrand()
+numComments=8

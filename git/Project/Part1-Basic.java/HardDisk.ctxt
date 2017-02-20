@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HardDisk()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ HardDisk\n
+comment1.params=brand
+comment1.target=void\ setBrand(java.lang.String)
+comment2.params=size
+comment2.target=void\ setSize(java.lang.String)
+comment3.params=type
+comment3.target=void\ setType(java.lang.String)
+comment4.params=cost
+comment4.target=void\ setCost(int)
+comment5.params=
+comment5.target=int\ getCost()
+comment6.params=
+comment6.target=java.lang.String\ getBrand()
+comment7.params=
+comment7.target=java.lang.String\ getSize()
+comment8.params=
+comment8.target=java.lang.String\ getType()
+comment9.params=
+comment9.target=void\ display()
+numComments=10
